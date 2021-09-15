@@ -2,7 +2,7 @@
 Version control commands for GitHub
 
 # Necessary Git Commands
-====================
+
 
 ### Setup & Init
 Configuring user information, initializing and cloning repositories
@@ -57,7 +57,7 @@ Working with snapshots and the git staging area
 | `git remote add origin ssh://git@github.com/[username]/[repository-name].git` | Add a remote repository |
 | `git remote set-url origin ssh://git@github.com/[username]/[repository-name].git` | Set a repository's origin branch to SSH |
 
-### Inspecte & Compare
+### Inspect & Compare
 
 | Command | Description |
 | ------- | ----------- |
@@ -68,7 +68,6 @@ Working with snapshots and the git staging area
 
 
 # Additional Git Commands
-=====================
 
 ### SETUP
 | Command | Description |
